@@ -1,4 +1,44 @@
-platform=Playstation 2
+platform=Virtual Console (WiiU)
+priority=1
+Super Metroid
+
+priority=5
+The Legend of Zelda: Link to the Past
+Super Mario RPG
+
+platform=PSOne Classics
+
+priority=1
+Suikoden
+
+priority=2
+Vagrant Story
+Wild Arms
+
+priority=3
+Parasite Eve
+
+priority=4
+Front Mission 3
+Breath of Fire 4
+Dino Crisis 2
+
+priority=5
+The Legend of Dragoon
+Chrono Cross
+Grandia
+
+priority=6
+Parasite Eve 2
+Suikoden 2
+Wild Arms 2
+
+platform=PS2 Classics
+
+priority=3
+Grandia 3
+
+platform=PlayStation 2
 
 priority=3
 Fatal Frame 1
@@ -41,7 +81,7 @@ The Last Story
 
 priority=3
 Pandora's Tower
-Sin & Punishment: Star Successor
+Sin and Punishment: Star Successor
 Trauma Center: Second Opinion
 Madworld
 New Super Mario Brothers Wii
@@ -78,6 +118,7 @@ priority=1
 Infamous 1
 Red Dead Redemption
 Metal Gear Solid: Peace Walker
+Drakengard 3
 
 priority=2
 No More Heroes
@@ -92,11 +133,13 @@ Ico
 Zone of the Enders
 Shadows of the Damned
 Tales of Xilla 1
+Ratchet and Clank: Tools of Destruction
+Bionic Commando Rearmed 2
 
 priority=3
 Sly Cooper and the Thievius Raccoonus
 God of War 2
-Jak & Daxter 1
+Jak and Daxter 1
 Devil May Cry 2
 Condemned 2: Bloodshot
 White Knight Chronicles 1
@@ -104,6 +147,8 @@ White Knight Chronicles 1
 Little Big Planet 2
 Killzone 2
 Beyond: Two Souls
+Tokyo Jungle
+Malicious
 
 priority=4
 Tales of Symphonia: Dawn of the New World
@@ -124,10 +169,13 @@ Zone of the Enders: The 2nd Runner
 God of War: Chains of Olympus
 God of War: Ghosts of Sparta
 God of War 3
-Ratchet & Clank 2
-Jak & Daxter 2
-Jak & Daxter 3
+Ratchet and Clank 2
+Jak and Daxter 2
+Jak and Daxter 3
 Killzone 3
+Ratchet and Clank: Quest for Booty
+Ratchet and Clank: A Crack in Time
+Ratchet and Clank: Into the Nexus
 
 platform=PlayStation 4
 
@@ -135,14 +183,17 @@ priority=1
 Final Fantasy XV
 The Last of Us
 Uncharted 1
+Journey
 
 priority=2
-Ratchet & Clank
+Ratchet and Clank
+Destiny
 
 priority=6
 Uncharted 2
 Uncharted 3
 Uncharted 4
+One Piece: Pirate Warrior 3
 
 platform=Wii U
 
@@ -225,7 +276,7 @@ Titan Souls
 Sunless Sea
 Party Hard
 Bulletstorm
-Armed & Dangerous
+Armed and Dangerous
 Retro City Rampage
 Ring Runner: Flight of the Sages
 Grand Theft Auto: Episodes from Liberty City
@@ -248,7 +299,7 @@ Breath of Death VII
 The Lord of the Rings: War in the North
 Sequence
 L.A. Noire
-Superbrothers: Sword & Sworcery EP
+Superbrothers: Sword and Sworcery EP
 Shadowrun Returns
 Resident Evil Revelations
 BioShock 2
@@ -299,10 +350,10 @@ Little Inferno
 
 priority=4
 Shoot Many Robots
-Papo & Yo
+Papo and Yo
 Brutal Legend
 Fez
-Sam & Max: Season 3
+Sam and Max: Season 3
 Strider
 Shadow Warrior Classic
 Gurumin: A Monstrous Adventure

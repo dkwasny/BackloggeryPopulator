@@ -51,8 +51,9 @@ sleep(5)
 i = 0
 for entry in entries:
     progress = round(100 * i / len(entries), 2)
-    status = "Processing {} ({}% complete)".format(entry.name, progress)
+    status = "Processing {} - {} ({}% complete)".format(entry.name, entry.platform, progress)
     print(status)
+    sleep(5)
 
     # Tab to the game name
     typewrite(["\t"] * 8)
@@ -73,6 +74,5 @@ for entry in entries:
     typewrite(" ")
 
     typewrite(["enter"])
-    sleep(5)
 
     i += 1
